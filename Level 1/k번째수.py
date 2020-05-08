@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42748
 def solution(array, commands):
     len(array) >= 1; len(array) <= 100
     len(commands) >=1; len(commands) <= 50
